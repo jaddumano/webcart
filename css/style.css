@@ -62,7 +62,7 @@ button:hover{
 .at{
     color: white;
 }
-@media screen and (max-width:430px) {
+@media screen and (max-device-width:430px) {
 .product{
     padding: 5px;
     margin: 5px;
